@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/4964b217a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="4964b217a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaurya-sharma-4964b217a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-sharma-4964b217a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14978127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14978127" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/smilingshaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smilingshaurya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaurya_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya_sharma" height="30" width="40" /></a>
