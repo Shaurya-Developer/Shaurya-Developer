@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaurya Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **ExpressJS, JavaScript**
+- 💬 Ask me about **ReactJS, ExpressJS, JavaScript**
 
 - 📫 How to reach me **smilingshaurya@gmail.com**
 
